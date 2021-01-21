@@ -20,7 +20,8 @@ const mockEvents = {
     events: [
         { title: 'Diversity Panel', id: 1, description: 'Learn from diverse leadership across the firm!' },
         { title: 'Networking Social', id: 2, description: 'Meet new peers and mentors at our Social!' },
-        { title: 'Cloud Training', id: 3, description: 'Learn about Cloud Architecture with your peers via our training program.' }
+        { title: 'Cloud Training', id: 3, description: 'Learn about Cloud Architecture with your peers via our training program.' },
+        { title: 'Analyst Happy Hour', id: 4, description: 'Come out for a fun night of drinks, food, and connections!' }
     ]
 };
 
